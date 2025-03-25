@@ -1,4 +1,6 @@
 #!/bin/bash
+# Autora: Larissa Thalia
+# Data: 24/03/2025
 
 # Lista de usuários essenciais que NÃO devem ser excluídos
 usuarios_essenciais=("root" "thalia" "daemon" "bin" "sys" "sync" "games" "man" "lp" "mail" "news" "uucp" "proxy" "www-data" "backup" "list" "irc" "gnats" "nobody")
